@@ -2,6 +2,8 @@
 
 This is a simple web-based QR Code Generator that allows users to create a QR code from any text or URL. It uses the [QRServer API](https://goqr.me/api/) to generate the QR code image on the fly.
 
+link: text-linktoqr@netlify.app
+
 ## 🚀 Features
 
 - Real-time QR code generation
